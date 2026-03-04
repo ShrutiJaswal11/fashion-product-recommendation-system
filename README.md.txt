@@ -58,4 +58,3 @@ fashion_product_recommendation_system.ipynb
 ## Author
 
 Shruti Jaswal  
-MCA – Artificial Intelligence & Machine Learning
